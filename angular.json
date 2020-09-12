@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hw"
+    }
+  },
+  "defaultProject": "hw",
+  "cli": {
+    "analytics": "a4bd8469-3e44-45b3-8d07-64bb3d6cb60c"
+  }
 }
